@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
-# Sigfox API Object to communicate with the Sigfox API
+# Python script to communicate with the Sigfox API
 
 import requests
 
