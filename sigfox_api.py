@@ -4,7 +4,7 @@
 
 import requests
 
-class Sigfox_API():
+class Sigfox_API:
 	"""
 	Sigfox API Object use to communicate with the Sigfox API,
 	using the user credentials (username and password) thanks
